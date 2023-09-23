@@ -1,9 +1,11 @@
 <template>
-  <router-link ></router-link>
+
 </template>
 
 <script setup>
+
 </script>
 
-<style>
+<style lang='scss' scoped>
+
 </style>
